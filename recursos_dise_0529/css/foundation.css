@@ -530,7 +530,8 @@ select {
     width: 41.66667%; }
 
   .medium-6 {
-    width: 50%; }
+    width: 50%;
+	height:100 px; }
 
   .medium-7 {
     width: 58.33333%; }
